@@ -6,6 +6,7 @@ Using JavaScript to create filters to filter through UFO sightings based on:
 * State
 * Country
 * Shape
+![ufo search](https://raw.githubusercontent.com/damansandhu/UFO-Sightings/main/cover/cover.png)
 ## Results
 In this project users can input an item into the search criteria to receive an output if there is any matching data. The web page filters between 1-5 parameters and returns a result, providing that the requirement parameters are met. 
 ## Summary
